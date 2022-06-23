@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript
+// @name        get_all_content 
 // @namespace    https://www..com/Profile/*
 // @version      0.1
 // @description  try to take over the world!
